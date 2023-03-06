@@ -1,8 +1,4 @@
-# Hello World
+# App service created
 
-My name is Alijon
 
-## Subheadline
-
-I am really ixcited with github
  
